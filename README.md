@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-14 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-10-14 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Incremental PCA with Partial Fit](https://www.deep-ml.com/problems/820) | medium | 2026-10-21 | [solution](problems/0820-incremental-pca-with-partial-fit) |
+| [Randomized PCA via Range Finding](https://www.deep-ml.com/problems/821) | medium | 2026-10-21 | [solution](problems/0821-randomized-pca-via-range-finding) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-20 | [solution](problems/0353-reconstruction-error-from-pca) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-14 | [solution](problems/0020-decision-tree-learning) |
 

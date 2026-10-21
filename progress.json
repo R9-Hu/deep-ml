@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T01:09:12.162Z",
+  "generated_at": "2026-10-21T02:05:15.195Z",
   "items": {
     "problem:286": {
       "kind": "problem",
@@ -91,6 +91,19 @@
       "last_pushed_at": "2026-10-21T01:09:11.579Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:821": {
+      "kind": "problem",
+      "id": "821",
+      "title": "Randomized PCA via Range Finding",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/821",
+      "path": "problems/0821-randomized-pca-via-range-finding",
+      "first_solved_at": "2026-10-21T02:05:14.752Z",
+      "last_pushed_at": "2026-10-21T02:05:14.752Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
