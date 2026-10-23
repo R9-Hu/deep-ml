@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-23 | [solution](problems/1232-conv2d-output-shape) |
+| [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-23 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-10-20 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-20 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-14 | [solution](problems/0286-implement-decision-tree-for-regression) |
