@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-23 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-10-20 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Calculate Explained Variance Ratio for PCA](https://www.deep-ml.com/problems/350) | medium | 2026-10-20 | [solution](problems/0350-calculate-explained-variance-ratio-for-pca) |
+| [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-23 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-14 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-10-14 | [solution](problems/0284-implement-entropy-based-split-selection) |
 | [Incremental PCA with Partial Fit](https://www.deep-ml.com/problems/820) | medium | 2026-10-21 | [solution](problems/0820-incremental-pca-with-partial-fit) |
