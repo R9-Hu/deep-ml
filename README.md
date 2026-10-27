@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**15** solved · 15 problems · 0 labs · 0 math
+**16** solved · 16 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-27 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-23 | [solution](problems/1232-conv2d-output-shape) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-27 | [solution](problems/1220-create-and-inspect-a-tensor) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-10-27 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement 2D Average Pooling](https://www.deep-ml.com/problems/265) | easy | 2026-10-23 | [solution](problems/0265-implement-2d-average-pooling) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-10-20 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-23 | [solution](problems/1233-apply-a-2d-convolution) |
