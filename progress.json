@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:15:11.042Z",
+  "generated_at": "2026-10-29T13:53:34.094Z",
   "items": {
     "problem:286": {
       "kind": "problem",
@@ -234,6 +234,19 @@
       "last_pushed_at": "2026-10-27T13:15:10.399Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-10-29T13:53:33.418Z",
+      "last_pushed_at": "2026-10-29T13:53:33.418Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
