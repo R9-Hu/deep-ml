@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Incremental PCA with Partial Fit](https://www.deep-ml.com/problems/820) | medium | 2026-10-21 | [solution](problems/0820-incremental-pca-with-partial-fit) |
 | [Randomized PCA via Range Finding](https://www.deep-ml.com/problems/821) | medium | 2026-10-21 | [solution](problems/0821-randomized-pca-via-range-finding) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-10-20 | [solution](problems/0353-reconstruction-error-from-pca) |
+| [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-29 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-23 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-14 | [solution](problems/0020-decision-tree-learning) |
 
