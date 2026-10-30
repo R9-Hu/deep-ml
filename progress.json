@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T13:39:40.814Z",
+  "generated_at": "2026-10-30T14:15:55.956Z",
   "items": {
     "problem:286": {
       "kind": "problem",
@@ -309,7 +309,7 @@
       "url": "https://www.deep-ml.com/problems/1287",
       "path": "problems/1287-tensor-puzzle-repeat-a-vector-as-rows",
       "first_solved_at": "2026-10-30T13:39:40.147Z",
-      "last_pushed_at": "2026-10-30T13:39:40.147Z",
+      "last_pushed_at": "2026-10-30T14:15:55.416Z",
       "language": "python",
       "lines": 8
     }
