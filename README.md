@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 25 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-23 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Decision Tree for Regression](https://www.deep-ml.com/problems/286) | medium | 2026-10-14 | [solution](problems/0286-implement-decision-tree-for-regression) |
 | [Implement Entropy-based Split Selection](https://www.deep-ml.com/problems/284) | medium | 2026-10-14 | [solution](problems/0284-implement-entropy-based-split-selection) |
+| [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-10-30 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-10-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Incremental PCA with Partial Fit](https://www.deep-ml.com/problems/820) | medium | 2026-10-21 | [solution](problems/0820-incremental-pca-with-partial-fit) |
 | [Randomized PCA via Range Finding](https://www.deep-ml.com/problems/821) | medium | 2026-10-21 | [solution](problems/0821-randomized-pca-via-range-finding) |
