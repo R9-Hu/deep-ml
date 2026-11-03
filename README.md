@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 30 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-10-27 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
+| [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-11-03 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Conv2d Output Shape](https://www.deep-ml.com/problems/1232) | easy | 2026-10-23 | [solution](problems/1232-conv2d-output-shape) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-10-27 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-03 | [solution](problems/0016-feature-scaling-implementation) |
