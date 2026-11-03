@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:09:30.802Z",
+  "generated_at": "2026-11-03T22:13:27.516Z",
   "items": {
     "problem:286": {
       "kind": "problem",
@@ -403,6 +403,19 @@
       "last_pushed_at": "2026-11-03T22:09:30.313Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:1281": {
+      "kind": "problem",
+      "id": "1281",
+      "title": "Tensor Puzzle: Sequence Mask by Lengths",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1281",
+      "path": "problems/1281-tensor-puzzle-sequence-mask-by-lengths",
+      "first_solved_at": "2026-11-03T22:13:26.987Z",
+      "last_pushed_at": "2026-11-03T22:13:26.987Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
