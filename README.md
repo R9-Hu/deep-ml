@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 29 problems · 0 labs · 0 math
+**30** solved · 30 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-29 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-10-29 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-10-27 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
+| [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-11-03 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-10-29 | [solution](problems/1224-single-linear-neuron-forward) |
 | [Tensor Puzzle: Pad or Truncate a Vector to Length j](https://www.deep-ml.com/problems/1280) | easy | 2026-11-03 | [solution](problems/1280-tensor-puzzle-pad-or-truncate-a-vector-to-length-j) |
 | [Tensor Puzzle: Repeat a Vector as Rows](https://www.deep-ml.com/problems/1287) | easy | 2026-10-30 | [solution](problems/1287-tensor-puzzle-repeat-a-vector-as-rows) |
