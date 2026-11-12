@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 32 problems · 0 labs · 0 math
+**33** solved · 32 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Sequence Mask by Lengths](https://www.deep-ml.com/problems/1281) | medium | 2026-11-03 | [solution](problems/1281-tensor-puzzle-sequence-mask-by-lengths) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-10-29 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-14 | [solution](problems/0020-decision-tree-learning) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-11-12 | [solution](math/0032-softmax-and-cross-entropy) |
 
 ---
 
