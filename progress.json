@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:35:51.137Z",
+  "generated_at": "2026-11-23T21:37:11.980Z",
   "items": {
     "problem:286": {
       "kind": "problem",
@@ -438,6 +438,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-12T01:35:50.578Z",
       "last_pushed_at": "2026-11-12T01:35:50.578Z"
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-11-23T21:37:11.352Z",
+      "last_pushed_at": "2026-11-23T21:37:11.352Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
